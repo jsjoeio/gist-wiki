@@ -66,6 +66,10 @@ Imagined workflow
 4. When I create a new gist page in my knowledge base, it does the thing on GitHub
 5. It also pulls down the new changes to the local copy of that repo
 
+**couldn't create foam.json**
+
+I don't know what I did wrong, but for some reason
+
 **Course-worthy**
 
 I am seriously amazed at all the features GistPad has and the number of things you could use it for. I could build a whole course on "Mastering GistPad for VS Code" 😂 Or even "GistPad for Technical Teachers" and talk about using it for code samples, at least frontend stuff. I didn't play around with it enough to know if the playground for other languages (Rust, Reason, etc.)
