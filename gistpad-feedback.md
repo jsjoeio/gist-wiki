@@ -41,7 +41,6 @@ I prefer Month, Day Year (July 15, 2020). It would be nice to configure this in 
 
 I wonder if I had some setting on but for some reason I couldn't get it to autocomplete my pages after typing "[["
 
-I wonder if i
 
 **Graph?**
 
