@@ -52,6 +52,8 @@ I think this is the only major knowledge base feature I didn't see? (maybe it's 
 
 I tried to use the [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) extension but didn't have much luck.
 
+I also couldn't drag a file into the repo
+
 **Course-worthy**
 
 I am seriously amazed at all the features GistPad has and the number of things you could use it for. I could build a whole course on "Mastering GistPad for VS Code" 😂 Or even "GistPad for Technical Teachers" and talk about using it for code samples, at least frontend stuff. I didn't play around with it enough to know if the playground for other languages (Rust, Reason, etc.)
