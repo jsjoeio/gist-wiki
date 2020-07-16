@@ -70,6 +70,8 @@ Imagined workflow
 
 It was a bit unclear to me. I created it locally, then tried to pull after making a bunch of changes and git was unhappy about the git histories being so different. I deleted the local copy, then went to GitHub itself and created it in the web UI. Then I hit the button to refresh the repo and that seemed to work.
 
+I'm curious though, I didn't have that before so what was I missing? 
+
 
 **Course-worthy**
 
