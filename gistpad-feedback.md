@@ -36,8 +36,6 @@ I see that I can comment, but I'm not sure how to save it or add it?
 
 I prefer Month, Day Year (July 15, 2020). It would be nice to configure this in the GistPad Settings (we added this for Foam I believe).
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c95a7158-7782-4fc7-9472-2d903b8f20f7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c95a7158-7782-4fc7-9472-2d903b8f20f7/Untitled.png)
-
 **Autocomplete of existing pages**
 
 I wonder if I had some setting on but for some reason I couldn't get it to autocomplete my pages after typing "[["
