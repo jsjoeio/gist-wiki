@@ -23,7 +23,7 @@ I did find the clone repo from url and that worked.
 
 Oh no! I tried to link to a nonexistent page and got this error when cmd + clicking. In Foam, this will create the page if it doesn't exist.
 
-
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c77596-3968-45d1-855d-e3769ac9c45d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c77596-3968-45d1-855d-e3769ac9c45d/Untitled.png)
 
 **How to save comments?**
 
@@ -39,16 +39,20 @@ I prefer Month, Day Year (July 15, 2020). It would be nice to configure this in 
 
 **Autocomplete of existing pages**
 
-I wonder if I had some setting on but for some reason I couldn't get it to autocomplete my pages after typing "[[".
+I wonder if I had some setting on but for some reason I couldn't get it to autocomplete my pages after typing "[["
 
-I saved my [[Settings]] here.
+**Hover to view link page**
 
+I don't think Foam has this but this is epic!!! I wish it did. I know Obsidian and Roam have it so I was happy to see it here.
 
 **Graph?**
 
 I think this is the only major knowledge base feature I didn't see? (maybe it's in the works). But in Obsidian, Roam, Foam, you have a knowledge graph showing the nodes and their connections. The one in Foam isn't perfect AFAIK, but I think we're working on it.
 
-**Amazed**
+**Can't paste image?**
+
+I tried to use the [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) extension but didn't have much luck.
+
+**Course-worthy**
 
 I am seriously amazed at all the features GistPad has and the number of things you could use it for. I could build a whole course on "Mastering GistPad for VS Code" 😂 Or even "GistPad for Technical Teachers" and talk about using it for code samples, at least frontend stuff. I didn't play around with it enough to know if the playground for other languages (Rust, Reason, etc.)
-
