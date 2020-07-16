@@ -41,6 +41,8 @@ I prefer Month, Day Year (July 15, 2020). It would be nice to configure this in 
 
 I wonder if I had some setting on but for some reason I couldn't get it to autocomplete my pages after typing "[["
 
+I wonder if i
+
 **Graph?**
 
 I think this is the only major knowledge base feature I didn't see? (maybe it's in the works). But in Obsidian, Roam, Foam, you have a knowledge graph showing the nodes and their connections. The one in Foam isn't perfect AFAIK, but I think we're working on it.
