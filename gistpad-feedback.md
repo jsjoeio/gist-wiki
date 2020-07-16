@@ -62,7 +62,7 @@ Imagined workflow
 
 1. Create repo
 2. This creates it on github
-3. this 
+3. This
 
 **Course-worthy**
 
