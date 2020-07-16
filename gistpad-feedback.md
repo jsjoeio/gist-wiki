@@ -56,7 +56,7 @@ I also couldn't drag a file into the repository from the GistPad side menu (like
 
 **sync to local?**
 
-It would be neat (I think?) to sync this locally.
+It would be neat (I think?) to sync this locally. I imagine, when i create a new gist, it does its thing, but also pulls 
 
 **Course-worthy**
 
