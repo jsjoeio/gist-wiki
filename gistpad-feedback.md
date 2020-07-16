@@ -52,7 +52,7 @@ I think this is the only major knowledge base feature I didn't see? (maybe it's 
 
 I tried to use the [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) extension but didn't have much luck.
 
-I also couldn't drag a file into the repository from the GistPad
+I also couldn't drag a file into the repository from the GistPad side menu
 
 **Course-worthy**
 
