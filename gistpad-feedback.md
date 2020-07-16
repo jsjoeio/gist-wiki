@@ -26,7 +26,7 @@ Oh no! I tried to link to a nonexistent page and got this error when cmd + click
 https://ibb.co/Brp3qm7
 https://ibb.co/yYxwNcN
 
-![link to ](https://i.ibb.co/1d4D0t0/image-1.png)
+![link to page doesnt exist.](https://i.ibb.co/1d4D0t0/image-1.png)
 
 **How to save comments?**
 
