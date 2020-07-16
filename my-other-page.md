@@ -2,4 +2,4 @@
 
 Test as well.
 
-[[Gua]]
+[[]]
