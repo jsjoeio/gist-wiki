@@ -68,7 +68,6 @@ Imagined workflow
 
 **where to create foam.json**
 
-k
 
 **Course-worthy**
 
