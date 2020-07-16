@@ -24,6 +24,7 @@ I did find the clone repo from url and that worked.
 Oh no! I tried to link to a nonexistent page and got this error when cmd + clicking. In Foam, this will create the page if it doesn't exist.
 
 
+
 **How to save comments?**
 
 I see that I can comment, but I'm not sure how to save it or add it?
