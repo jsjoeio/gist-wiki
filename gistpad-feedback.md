@@ -68,6 +68,8 @@ Imagined workflow
 
 **where to create foam.json**
 
+It was a bit unclear to me. I created it locally, then tried to pull after making a bunch of changes and git was unhappy about the git histories being so different. I deleted the local copy, then went to GitHub itself and created it in the web UI. Tha
+
 
 **Course-worthy**
 
