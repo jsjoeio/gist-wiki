@@ -72,7 +72,7 @@ It was a bit unclear to me. I created it locally, then tried to pull after makin
 
 I'm curious though, I didn't have that before so what features was I missing?
 
-Ah, I reread the readme. That was if I wanted it to work directly with Foam. I see! That makes sense now then why you don't have the Graph because
+Ah, I reread the readme. That was if I wanted it to work directly with Foam. I see! That makes sense now then why you don't have the Graph because Foam already accomplishes that :sm
 
 
 **Course-worthy**
