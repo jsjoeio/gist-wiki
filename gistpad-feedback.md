@@ -32,7 +32,7 @@ https://ibb.co/yYxwNcN
 
 I see that I can comment, but I'm not sure how to save it or add it?
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f50dee9-11ed-4cd9-9deb-eaae580dc284/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f50dee9-11ed-4cd9-9deb-eaae580dc284/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f50dee9-11ed-4cd9-9deb-eaae580dc284/Untitled.png](https://i.ibb.co/61Mwg2p/save-comments.png)
 
 **Configure Daily Page heading format**
 
