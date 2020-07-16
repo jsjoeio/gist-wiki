@@ -1,4 +1,4 @@
-# Vscode-Settings
+# settings
 
 Here they are:
 
