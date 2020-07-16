@@ -54,7 +54,9 @@ I tried to use the [Paste Image](https://marketplace.visualstudio.com/items?item
 
 I also couldn't drag a file into the repository from the GistPad side menu (like the place where I see the Gist pages).
 
-**sync to local**
+**sync to local?**
+
+I
 
 **Course-worthy**
 
