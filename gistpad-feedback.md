@@ -61,7 +61,8 @@ It would be neat (I think?) to sync this locally. I imagine, when i create a new
 Imagined workflow
 
 1. Create repo
-2. 
+2. This creates it on github
+3. this 
 
 **Course-worthy**
 
