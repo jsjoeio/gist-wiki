@@ -23,7 +23,6 @@ I did find the clone repo from url and that worked.
 
 Oh no! I tried to link to a nonexistent page and got this error when cmd + clicking. In Foam, this will create the page if it doesn't exist.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c77596-3968-45d1-855d-e3769ac9c45d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c77596-3968-45d1-855d-e3769ac9c45d/Untitled.png)
 
 **How to save comments?**
 
