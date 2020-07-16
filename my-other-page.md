@@ -2,5 +2,5 @@
 
 Test as well.
 
-[[Gua]]
+[]
 
