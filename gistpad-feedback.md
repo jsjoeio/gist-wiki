@@ -68,7 +68,7 @@ Imagined workflow
 
 **couldn't create foam.json**
 
-I don't know what I did wrong, but for some reason
+k
 
 **Course-worthy**
 
