@@ -26,7 +26,7 @@ Oh no! I tried to link to a nonexistent page and got this error when cmd + click
 https://ibb.co/Brp3qm7
 https://ibb.co/yYxwNcN
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c77596-3968-45d1-855ci-e3769ac9c45d/Untitled.png](https://i.ibb.co/1d4D0t0/image-1.png)
+![](https://i.ibb.co/1d4D0t0/image-1.png)
 
 **How to save comments?**
 
