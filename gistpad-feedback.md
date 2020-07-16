@@ -23,8 +23,6 @@ I did find the clone repo from url and that worked.
 
 Oh no! I tried to link to a nonexistent page and got this error when cmd + clicking. In Foam, this will create the page if it doesn't exist.
 
-https://ibb.co/Brp3qm7
-https://ibb.co/yYxwNcN
 
 ![link to page doesnt exist.](https://i.ibb.co/1d4D0t0/image-1.png)
 
