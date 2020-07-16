@@ -1,4 +1,6 @@
 # My Other Page
 
-Test as well
+Test as well.
+
+[[Gua]]
 
