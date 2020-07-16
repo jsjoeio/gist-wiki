@@ -56,7 +56,7 @@ I also couldn't drag a file into the repository from the GistPad side menu (like
 
 **sync to local?**
 
-It would be neat (I think?) to sync this with 
+It would be neat (I think?) to sync this locally.
 
 **Course-worthy**
 
