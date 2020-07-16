@@ -64,7 +64,7 @@ Imagined workflow
 2. This creates it on GitHub
 3. This creates a folder locally
 4. When I create a new gist page in my knowledge base, it does the thing on GitHub
-5. It also pulls down the new changes
+5. It also pulls down the new changes to the local copy of that repo
 
 **Course-worthy**
 
